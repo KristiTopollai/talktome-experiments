@@ -1,0 +1,8 @@
+torch>=2.1
+torchvision>=0.16
+numpy
+scikit-learn
+matplotlib
+pillow
+imageio-ffmpeg    # ffmpeg binary, used to read video frames
+huggingface_hub   # downloads TALKtoME and the checkpoints
